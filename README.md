@@ -16,4 +16,12 @@ ezrx was born when I was tuning around on an SDR website and thought that I coul
 
 4. Resource use. I wish to make ezrx as easy to run as possible on a variety of systems.
 
+5. Trying to implement things that simply would either not work or not be favorable while over an internet connection. An example being a spectrum view (not a waterfall), all the ones I've seen have a very low framerate and are generally just not appealing.
+
+6. Obscure configuration files. I don't want to go looking through /etc/thissdrsoftware/ searching for the .conf file to change a bandplan.
+
 To be continued...
+
+## General goals, which are not included in the above section.
+
+- Have a somewhat usable, not pretty, but at least usable, version out before I am on summer vacation.
