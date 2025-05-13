@@ -10,7 +10,7 @@ ezrx was born when I was tuning around on an SDR website and thought that I coul
 
 1. Too many modes available. A significant percentage of available modes in software are used by almost nobody for their actual purpose.
 
-2. Too much focus on UI. A user will likely have a much easier experience if what they see is what they get.
+2. Too much focus on UI. A user will likely have a much easier experience if what they see is what they get; as little drop-down menus as possible.
 
 3. Stuttering. I can't exactly promise this one, as I am limited by Internet protocols. Tuning on a radio does not naturally come with interruptions. There is either a signal or static.
 
